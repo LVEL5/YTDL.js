@@ -1,8 +1,9 @@
 
 
 # YTDL.JS!
-**Youtube downloader** video &amp; mp3 using from [**yt1s.com**](https://yt1s.com) click [**here**](https://raw.githubusercontent.com/LVEL5/YTDL.js/master/YTDL.js) to install the userscripts
-if you already have the userscripts browser [**extension**](https://github.com/LVEL5/YTDL.js#-instruction)
+**Youtube downloader** video &amp; mp3 using from [**yt1s.com**](https://yt1s.com)  click <a href="https://raw.githubusercontent.com/LVEL5/YTDL.js/master/YTDL.js">**HERE!**</a>
+<small>(A userscript engine, like Tampermonkey, is required to download	 the userscripts)</small>
+if you don't have the  [**userscripts browser extension**](https://github.com/LVEL5/YTDL.js#-instruction),  you candownload [**HERE!**](https://github.com/LVEL5/YTDL.js#-instruction)
 ## [](https://emojipedia.org/framed-picture)
 ### 🖼️ SCREENSHORT
 
@@ -42,7 +43,7 @@ In simple terms, it's like having a magic button on YouTube that lets you downlo
 
 #### Step 2: ScriptManager
 
- - Click [**here**](https://raw.githubusercontent.com/LVEL5/YTDL.js/master/YTDL.js)
+ - Click  <a href="https://raw.githubusercontent.com/LVEL5/YTDL.js/master/YTDL.js">**HERE!**</a> to download
 
 #### Step 3: ScriptManager
 
