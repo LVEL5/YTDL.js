@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         YTDL.JS!
-// @namespace    http://qweren.neocities.org/
+// @namespace    https://github.com/LVEL5/YTDL.js
 // @icon         https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png
-// @version      Release
+// @version      0.1
 // @description  Adds a download button (That actually looks good) that shows a popup menu with download options and redirects to yt1s.com.
 // @author       Level Five
 // @match        *://www.youtube.com/watch?v=*
@@ -117,4 +117,3 @@
         }
     }, 6000);
 })();
-
